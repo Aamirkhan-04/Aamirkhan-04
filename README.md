@@ -49,19 +49,19 @@
 
 ### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanaamir129845&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanaamir129845&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aamirkhan-04&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aamirkhan-04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanaamir129845&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aamirkhan-04&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ### 🚀 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanaamir129845&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aamirkhan-04&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
