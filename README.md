@@ -1,49 +1,71 @@
 <!-- Header Section -->
-<h1 align="center">✨ Hello World! I'm Mohammad Aamir ✨</h1>
-<h3 align="center">🎓 Java Developer | College Student | Core & Advanced Java Learner</h3>
+<h1 align="center">👋 Hi, I'm Mohammad Aamir</h1>
+<h3 align="center">☕ Java Backend Developer | Spring Boot | Spring Security</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation"/>
 </p>
 
 ---
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=Aspiring+Java+Developer;Core+Java+%7C+Advanced+Java;College+Student+Learning+Every+Day;Future+Backend+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=700&height=60&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security;REST+API+%7C+MySQL+%7C+JPA;Building+Real-World+Backend+Projects" />
 </p>
 
 ---
 
-### 🌟 About Me  
-- 🎓 I am a **College Student** learning **Java Development**  
-- 🌱 Currently studying **Core Java and some Advanced Java concepts**  
-- 👨‍💻 Practicing Java programs, **OOPs, JDBC & backend basics**  
-- 📫 Email: **khanaamir129845@gmail.com**  
-- 🌍 Website: [https://itsaamirkhan.netlify.app/](https://itsaamirkhan.netlify.app/)  
-- ⚡ Fun Fact: *“I learn Java by writing code every day.”*  
+### 🌟 About Me
+
+- 🎓 BSc IT student focused on **Java Backend Development**
+- ☕ Building backend applications using **Java & Spring Boot**
+- 🔐 Learning **Spring Security, JWT Authentication & REST APIs**
+- 🗄️ Working with **MySQL, JPA & Hibernate**
+- 🛠️ Building real-world projects to strengthen my backend development skills
+- 🚀 Currently preparing for **Java Backend Developer opportunities**
+- 🌍 Portfolio: [https://mohammad-aamir-khan.netlify.app/](https://mohammad-aamir-khan.netlify.app/)   
 
 ---
 
 ### 🤝 Let's Connect  
 <p align="center">
-  <a href="https://itsaamirkhan.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0000FF/internet--v1.png" alt="Website" width="40"/>
-  </a>
+<a href="https://mohammad-aamir-khan.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0000FF/internet--v1.png" alt="Website" width="40"/>
+</a>
   <a href="mailto:khanaamir129845@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=EA4335" alt="Gmail" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0A66C2" alt="LinkedIn" width="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mohammad-aamir-550a0b332/?isSelfProfile=true" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0A66C2" alt="LinkedIn" width="40"/>
+</a>
+  <a href="https://github.com/Aamirkhan-04" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40"/>
+</a>
 </p>
 
 ---
+### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack  
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,c" />
+<p align="center">
+  <strong>Languages:</strong> Java | C | C++ | Python
 </p>
+
+<p align="center">
+  <strong>Backend:</strong> Spring Boot | Spring Security | REST API | JPA | Hibernate
+</p>
+
+<p align="center">
+  <strong>Database:</strong> MySQL
+</p>
+
+<p align="center">
+  <strong>Frontend:</strong> HTML | CSS | JavaScript | React
+</p>
+
+<p align="center">
+  <strong>Tools:</strong> Git | GitHub | Postman | VS Code | STS
+</p>  
+ 
 
 ---
 
@@ -66,11 +88,23 @@
 
 ---
 
-### 💡 Coder's Quote  
+### 🚀 Featured Project
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Learning+Java+one+concept+at+a+time"/>
+  <strong>🎫 Customer Support CRM</strong>
+</p>
+
+<p align="center">
+  A full-stack customer support ticket management system with ticket handling,
+  status management, notes, search, validation and secure authentication.
+</p>
+
+<p align="center">
+  <strong>Java | Spring Boot | Spring Security | JPA | Hibernate | MySQL | REST API</strong>
 </p>
 
 ---
 
-⭐ *“Learning Java step by step, building my career one program at a time.”*
+<p align="center">
+  🚀 <strong>Building with Java. Learning with every project. Growing as a Backend Developer.</strong>
+</p>
