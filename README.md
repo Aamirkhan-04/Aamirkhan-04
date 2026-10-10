@@ -44,15 +44,13 @@ A customer-support ticketing application built to manage customers and their sup
 - Input validation and structured error handling
 - **Java · Spring Boot · Spring Security · JWT · Spring Data JPA · Hibernate · MySQL · React**
 
-### 🎙️ College Voice Assistant — Planned Concept
+### 🎙️ College Voice Assistant
 
-An AI voice-assistant concept focused on helping students ask college-related questions through voice.
+A completed AI voice-assistant project built to help students interact with college-related information through voice.
 
-- Intended direction: voice-based interaction for common college/student queries
-- Planned technologies: **Spring AI · Groq · Deepgram**
-- **Status:** Planning stage; not presented as a completed project
-
-The CRM is the project I've built and can discuss in detail. The College Voice Assistant is listed separately as a planned concept, not as a finished implementation.
+- Voice-based interaction for college/student queries
+- Technologies: **Spring AI · Groq · Deepgram**
+- **Status:** Completed project
 
 ---
 
