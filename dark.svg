@@ -392,29 +392,27 @@
       <text x="175" y="147" class="white-text">DSA, Backend Engineering, Learning</text>
     </g>
 
-    <!-- Projects Section -->
+    <!-- Featured projects: one built project and one planned concept -->
     <g transform="translate(20, 258)" class="font-mono" font-size="11.5">
-      <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Projects</text>
-      
+      <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Featured Projects</text>
+
       <!-- Customer Support CRM -->
       <text x="12" y="20" class="label-cyan">• Support CRM</text>
       <text x="95" y="20" class="muted-dots">.......................</text>
-      <text x="175" y="20" class="white-text">Tickets, comments &amp; role access</text>
+      <text x="175" y="20" class="white-text">Tickets, comments &amp; status</text>
 
-      <!-- Bug Tracking System -->
-      <text x="12" y="40" class="label-cyan">• Bug Tracker</text>
-      <text x="115" y="40" class="muted-dots">....................</text>
-      <text x="175" y="40" class="white-text">Planned Java/Spring Boot project</text>
+      <text x="12" y="40" class="label-cyan">• CRM Security</text>
+      <text x="95" y="40" class="muted-dots">.......................</text>
+      <text x="175" y="40" class="white-text">JWT &amp; role-based access</text>
 
-      <!-- Hospital Backend -->
-      <text x="12" y="60" class="label-cyan">• Hospital API</text>
-      <text x="95" y="60" class="muted-dots">.......................</text>
-      <text x="175" y="60" class="white-text">REST APIs with Spring Boot &amp; MySQL</text>
+      <!-- College Voice Assistant: planned concept, not presented as built -->
+      <text x="12" y="60" class="label-cyan">• College Voice</text>
+      <text x="108" y="60" class="muted-dots">......................</text>
+      <text x="175" y="60" class="white-text">Planned student-query concept</text>
 
-      <!-- Student Course Portal -->
-      <text x="12" y="80" class="label-cyan">• Student Portal</text>
-      <text x="110" y="80" class="muted-dots">.....................</text>
-      <text x="175" y="80" class="white-text">Student/course learning project</text>
+      <text x="12" y="80" class="label-cyan">• AI Stack</text>
+      <text x="95" y="80" class="muted-dots">.......................</text>
+      <text x="175" y="80" class="white-text">Spring AI · Groq · Deepgram</text>
     </g>
 
     <!-- Links Section -->

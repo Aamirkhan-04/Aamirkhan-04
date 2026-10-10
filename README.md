@@ -36,32 +36,23 @@ I'm working toward an entry-level **Java Backend Developer** role or internship 
 
 [GitHub Repository](https://github.com/Aamirkhan-04/customer-support-crm)
 
-A customer support ticketing application for working with customers and their support tickets.
+A customer-support ticketing application built to manage customers and their support tickets.
 
-- Create and search tickets; filter and update ticket status
-- Add comments/notes to ticket conversations
+- Create and search tickets; filter tickets and update their status
+- Add comments to ticket conversations
 - JWT authentication and role-based access
-- Validation and structured error handling
+- Input validation and structured error handling
 - **Java · Spring Boot · Spring Security · JWT · Spring Data JPA · Hibernate · MySQL · React**
 
-### 🐞 Bug Tracking System — Planned Next
+### 🎙️ College Voice Assistant — Planned Concept
 
-A Java backend project planned around bug reporting and tracking workflows.
+An AI voice-assistant concept focused on helping students ask college-related questions through voice.
 
-- Planned stack: **Java · Spring Boot · Spring Security · JWT · MySQL**
-- This project is planned for continued development; it is not presented as a completed project
+- Intended direction: voice-based interaction for common college/student queries
+- Planned technologies: **Spring AI · Groq · Deepgram**
+- **Status:** Planning stage; not presented as a completed project
 
-### 🏥 Hospital Backend
-
-A backend project built around hospital/healthcare application workflows.
-
-- REST API development using Java and Spring Boot
-- MySQL persistence
-- Built as a learning project alongside a frontend application
-
-### 🎓 Student Course Portal
-
-A student/course management learning project with a MySQL database.
+The CRM is the project I've built and can discuss in detail. The College Voice Assistant is listed separately as a planned concept, not as a finished implementation.
 
 ---
 
