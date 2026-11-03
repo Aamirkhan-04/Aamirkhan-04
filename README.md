@@ -30,7 +30,7 @@ I'm working toward an entry-level **Java Backend Developer** role or internship 
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Project
 
 ### 🎫 Customer Support CRM
 
@@ -44,13 +44,7 @@ A customer-support ticketing application built to manage customers and their sup
 - Input validation and structured error handling
 - **Java · Spring Boot · Spring Security · JWT · Spring Data JPA · Hibernate · MySQL · React**
 
-### 🎙️ College Voice Assistant
-
-A completed AI voice-assistant project built to help students interact with college-related information through voice.
-
-- Voice-based interaction for college/student queries
-- Technologies: **Spring AI · Groq · Deepgram**
-- **Status:** Completed project
+I'm showcasing this project because it's the project I've built and can discuss in detail. I'll add other projects here when they're actually built and ready to share.
 
 ---
 
